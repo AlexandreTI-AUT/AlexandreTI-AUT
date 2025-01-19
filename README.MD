@@ -1,34 +1,34 @@
-# <div align="center">Olá 👋, Eu sou Alexandre da Silva</div>
+# <div align="center">Hi 👋, I'm Alexandre da Silva</div>
 
-<h3 align="center">SDET - Software Development Engineer in Test (QA) | QA Tutor na TripleTen | Mentor na Automation MasterClass Live 🎓</h3>
+<h3 align="center">SDET - Software Development Engineer in Test (QA) | QA Tutor at TripleTen | Mentor at Automation MasterClass Live 🎓</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexandreti-aut&label=Profile%20views&color=0e75b6&style=flat" alt="alexandreti-aut" />
 </p>
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
-- 🔭 Atualmente trabalho na **VerifyMy** - Protegendo crianças e a sociedade online
-- 👨‍🏫 QA Tutor na **TripleTen** e Mentor na **Automation MasterClass Live**
-- 🌎 Experiência em colaborações internacionais com equipes na Alemanha, França, Taiwan, China, EUA, Canadá e Inglaterra
-- ⚡ +16 anos de experiência em Quality Assurance e Automação de Testes
-- 📚 Sempre aprendendo e compartilhando conhecimento
+- 🔭 Currently working at **VerifyMy** - Safeguarding children and society online
+- 👨‍🏫 QA Tutor at **TripleTen** and Mentor at **Automation MasterClass Live**
+- 🌎 Experience in international collaborations with teams in Germany, France, Taiwan, China, USA, Canada, and England
+- ⚡ Over 16 years of experience in Quality Assurance and Test Automation
+- 📚 Always learning and sharing knowledge
 
-### 🛠️ Stack Técnica
+### 🛠️ Technical Stack
 
-#### Automação de Testes
+#### Test Automation
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-#### Testes de Performance
+#### Performance Testing
 ![K6](https://img.shields.io/badge/-K6-7D64FF?style=flat&logo=k6&logoColor=white)
 ![Gatling](https://img.shields.io/badge/-Gatling-FF9E2A?style=flat&logo=gatling&logoColor=white)
 ![Vegeta](https://img.shields.io/badge/-Vegeta-8B4513?style=flat&logo=vegeta&logoColor=white)
 
-#### Linguagens de Programação
+#### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -42,21 +42,21 @@
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-#### Banco de Dados
+#### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-#### Gestão de Projetos & Metodologias
+#### Project Management & Methodologies
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-1C78C0?style=flat&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-0098FF?style=flat&logo=kanban&logoColor=white)
 
-### 📫 Conecte-se comigo
+### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-silva-qa/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlexandreTI-AUT)
 
@@ -66,4 +66,4 @@
 </p>
 
 ---
-💬 *"Qualidade não é um ato, é um hábito" - Aristóteles*
+💬 *"Quality is not an act, it is a habit" - Aristotle*
