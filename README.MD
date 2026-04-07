@@ -11,7 +11,7 @@
 - 🔭 Currently working at **Novigi Solution** 
 - 👨‍🏫 QA Tutor at **TripleTen** and Mentor at **Automation MasterClass Live**
 - 🌎 Experience in international collaborations with teams in Germany, France, Taiwan, China, USA, Canada, and England
-- ⚡ Over 16 years of experience in Quality Assurance and Test Automation
+- ⚡ Over 17 years of experience in Quality Assurance and Test Automation
 - 📚 Always learning and sharing knowledge
 
 ### 🛠️ Technical Stack
