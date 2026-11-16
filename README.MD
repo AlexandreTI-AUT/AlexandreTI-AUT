@@ -1,6 +1,6 @@
 # <div align="center">Hi 👋, I'm Alexandre da Silva</div>
 
-<h3 align="center">SDET - Software Development Engineer in Test (QA) | QA Tutor at TripleTen | Mentor at Automation MasterClass Live 🎓</h3>
+<h3 align="center">SDET - Software Development Engineer in Test (QA) | QA Tutor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexandreti-aut&label=Profile%20views&color=0e75b6&style=flat" alt="alexandreti-aut" />
